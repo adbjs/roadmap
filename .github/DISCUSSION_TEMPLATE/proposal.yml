@@ -1,0 +1,44 @@
+labels: ["Proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Proposal
+
+        You have come to the right place if you are interested in suggesting a new feature or improvement to ADB.js! 
+
+        It is anticipated that this template will address the majority of inquiries regarding your proposal.
+        **The entirety of this template is optional!** Delete it at your discretion and utilize the format or length that you prefer. You may return at a later time to revise your proposal.
+        
+  - type: textarea
+    id: main
+    attributes:
+      label: Body
+      value: |
+        # Summary
+
+        A brief, one or two sentence explanation of the proposal.
+
+        # Background & Motivation
+
+        Include any useful background detail that that explains why this RFC is important.
+        What are the problems that this RFC sets out to solve? Why now? Be brief!
+
+        It can be useful to illustrate your RFC as a user problem in this section.
+        (ex: "Users have reported that it is difficult to do X in ADB.js today.")
+
+        # Goals
+
+        A **concise, bulleted-list** outlining the intended goals of this RFC. 
+
+        - What are the exact problems that you are trying to solve with this RFC?
+        - Separate these goals from the solution that you will outline below.
+        - If this RFC isn't approved, these goals can be used to develop alternative solutions.
+
+  - type: markdown
+    attributes:
+      value: |
+        [Learn more](https://github.com/adbjs/roadmap) about our proposal and RFC process.
+        
+    validations:
+      required: true
