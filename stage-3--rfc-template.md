@@ -16,13 +16,9 @@
 - Stage 2 Issue: <!-- required -->
 - Stage 3 PR: <!-- leave empty until a PR exists -->
 
----
-
 # Summary
 
 One or two sentences describing what this RFC proposes and why it matters.
-
----
 
 # Background & Motivation
 
@@ -46,8 +42,6 @@ What is intentionally out of scope for this RFC. This helps readers understand t
 
 This section may be left empty if there are no meaningful exclusions to call out.
 
----
-
 # Detailed Design
 
 This is the core of the RFC. Write at a level of detail that allows someone familiar with ADB.js to understand the proposal fully, and someone familiar with the codebase to implement it. Cover the following as applicable:
@@ -60,25 +54,17 @@ This is the core of the RFC. Write at a level of detail that allows someone fami
 
 > Replace this block with the actual design. It should be thorough enough that a reviewer can identify gaps and an implementer can begin work without significant ambiguity.
 
----
-
 # Testing Strategy
 
 Describe how the implementation will be verified. Will this require unit tests, integration tests, end-to-end tests, or some combination? Call out any particularly important test cases, including edge cases that are easy to miss.
-
----
 
 # Drawbacks
 
 Why should this RFC not be implemented? Consider the implementation cost in terms of code complexity, the risk of confusing new users, the friction of migrating existing applications, and whether the feature could reasonably be built in userspace instead. Identifying real tradeoffs here strengthens the proposal.
 
----
-
 # Alternatives
 
 What other approaches were considered? What happens if this RFC is not accepted? Describe the alternatives and explain why the proposed design was preferred over them.
-
----
 
 # Adoption Strategy
 
@@ -88,8 +74,6 @@ Address how this change lands for existing ADB.js users:
 - Can a codemod automate the migration?
 - Does this affect libraries or integrations in the ADB.js ecosystem?
 - What documentation or guides will be needed?
-
----
 
 # Unresolved Questions
 

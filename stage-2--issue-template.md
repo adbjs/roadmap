@@ -11,13 +11,9 @@
 - Champion(s): <!-- @mention any proposal champions -->
 - Implementation PR: <!-- leave empty -->
 
----
-
 # Summary
 
 One or two sentences describing what this proposal suggests and why it matters.
-
----
 
 # Background & Motivation
 

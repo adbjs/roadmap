@@ -12,8 +12,6 @@
 
 One or two sentences describing what this proposal suggests and why it matters.
 
----
-
 # Background & Motivation
 
 Describe the problem this proposal addresses. What is painful or impossible to do in ADB.js today, and why does it need to be solved now? Keep this section focused on the problem, not the solution. A concrete user scenario helps ground the discussion.
