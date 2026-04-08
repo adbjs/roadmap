@@ -13,5 +13,5 @@ by starting a discussion on GitHub. For further details, visit the repository [`
 
 # Links
 - [Rendered RFC](https://github.com/<USERNAME>/roadmap/blob/<BRANCH>/proposals/<FILENAME>.md)
-- [Stage 2 Proposal](https://github.com/withastro/roadmap/issues/<ID>)
-- [Stage 1 Proposal](https://github.com/withastro/roadmap/discussions/<ID>)
+- [Stage 2 Proposal](https://github.com/adbjs/roadmap/issues/<ID>)
+- [Stage 1 Proposal](https://github.com/adbjs/roadmap/discussions/<ID>)
