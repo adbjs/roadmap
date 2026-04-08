@@ -7,7 +7,7 @@ assignees: ''
 ---
 
 <!-- 
-  **This template is reserved for Astro maintainers!**
+  **This template is reserved for ADB.js maintainers!**
   Any non-maintainer issues on this repo will be closed automatically.
 
   Instead, start a new discussion: https://github.com/adbjs/roadmap/discussions/new
@@ -27,7 +27,7 @@ A brief, one or two sentence explanation of the proposal.
 # Background & Motivation
 
 Include any useful detail that that explains the background of this problem 
-at Astro and why this problem is worth solving. Why solve it now? Be brief!
+at ADB.js and why this problem is worth solving. Why solve it now? Be brief!
 
 # Goals
 
